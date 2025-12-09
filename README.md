@@ -53,7 +53,7 @@ I created this project to solve the problem of calculating student grades consis
 I used Python to write the program. Within Python, I relied on input validation techniques, arithmetic operations, conditional logic, functions, and formatted output to deliver the final results.
 
 #### - Challenges I faced
-One challenge was implementing reliable input validation so users couldn’t accidentally enter invalid or out-of-range values. I also had to make sure the quiz and assessment weights added up to exactly 100%, which required looping and careful checking. Another obstacle was organizing the code cleanly while processing multiple students—this required tracking variables, updating totals, and ensuring each step executed correctly.
+One challenge was implementing reliable input validation so users couldn’t accidentally enter invalid or out-of-range values. I also had to make sure the quiz and assessment weights added up to exactly 100%, which required looping and careful checking. Another obstacle was organizing the code cleanly while processing multiple students; it required tracking variables, updating totals, and ensuring each step executed correctly.
 
 #### - Other Resources
 I used class notes, weekly modules, and examples provided in the course to guide my logic. I did not directly collaborate with other students, but I referred to course materials to make sure the structure and validation methods followed best practices.
